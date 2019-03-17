@@ -21,7 +21,7 @@ Este programa se permite usuarios a tener una base informativa de los obreros. C
 y tiene un nombre del obrero y cuantas horas el/ella trabajaron.
 
 Cambios:
-Nada todavia
+Nada todavia...
 
 Planes por futuro:
 - Construir el habilidad de buscar con el nombre o numero de un obrero
